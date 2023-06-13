@@ -86,9 +86,9 @@ author:
   location         : "Bloomington, IN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/citations?user=P1japUQAAAAJ&hl=en&authuser=1"
+  googlescholar    : #"http://scholar.google.com/citations?user=P1japUQAAAAJ&hl=en&authuser=1"
   email            :
-  researchgate     :   "https://www.researchgate.net/profile/Duwage_Perera"
+  researchgate     :   #"https://www.researchgate.net/profile/Duwage_Perera"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "http://github.com/dcperera"
+  github           : #"http://github.com/dcperera"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/charitha.p/"
+  instagram        : #"https://www.instagram.com/charitha.p/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "http://linkedin.com/in/dcharithaperera"
-  orcid            : "https://www.orcid.org/my-orcid?orcid=0000-0003-4237-138X"
+  linkedin         : #"http://linkedin.com/in/dcharithaperera"
+  orcid            : #"https://www.orcid.org/my-orcid?orcid=0000-0003-4237-138X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "http://twitter.com/d_charitha"
+  twitter          : #"http://twitter.com/d_charitha"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCqEIdgdJUpfYTsqpLeYj77A"
+  youtube          : #"https://www.youtube.com/channel/UCqEIdgdJUpfYTsqpLeYj77A"
   wikipedia        :
 
 
