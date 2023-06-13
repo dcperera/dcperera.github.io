@@ -5,7 +5,7 @@ Name Name:
   uri         : "http://name.com"
   email       : "chperera@iu.edu"
   bio         : "This is the first name."
-  avatar      : "profile.PNG"
+  avatar      : "profile.JPEG"
   twitter     : "name"
   google_plus : "Name"
 
@@ -13,6 +13,6 @@ Name2 Name2:
   name        : "Duwage Charitha Perera"
   email       : "name2@name2.com"
   bio         : "I ordered what?"
-  avatar      : "profile.PNG"
+  avatar      : "profile.JPEG"
   twitter     : "name2"
   google_plus : "Name"
