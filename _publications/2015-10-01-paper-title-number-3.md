@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Exchange Functionals and Basis Sets for Density Functional Theory Studies of Water Splitting on Selected ZnO Nanocluster Catalysts"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper is about structural and electronic properties of small ZnO clusters. Moreover this paper discussed the use of ZnO nanoclusters as a potential catalyst for water splitting reaction.'
+date: 2022/4/4
+venue: 'JACS omega'
+paperurl: 'http://dcperera.github.io/files/paper3.pdf'
+citation: 'DC Perera, JC Rasaiah. (2022). &quot;Exchange Functionals and Basis Sets for Density Functional Theory Studies of Water Splitting on Selected ZnO Nanocluster Catalysts.&quot; <i>ACS omega</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about structural and electronic properties of small ZnO clusters. Moreover this paper discussed the use of ZnO nanoclusters as a potential catalyst for water splitting reaction.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://doi.org/10.1021/acsomega.1c05666)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Exchange Functionals and Basis Sets for Density Functional Theory Studies of Water Splitting on Selected ZnO Nanocluster Catalysts
+DC Perera, JC Rasaiah - ACS omega, 2022,https://doi.org/10.1021/acsomega.1c05666
