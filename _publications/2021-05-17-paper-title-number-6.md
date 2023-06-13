@@ -6,7 +6,7 @@ excerpt: 'This study explains about the basis set comparison for small ZnO clust
 date: 2021/5/17
 venue: 'ChemRxiv'
 paperurl: 'http://dcperera.github.io/files/paper6.pdf'
-citation: 'D Perera. (2021). &quot;Exchange Functionals and Basis Set Comparisons for Theoretical Studies of ZnO Nonoclusters.&quot; <i>Chemrxiv</i>. 1(3).'
+citation: 'D Perera. (2021). &quot;Exchange Functionals and Basis Set Comparisons for Theoretical Studies of ZnO Nonoclusters.&quot; <i>Chemrxiv</i>. 1(6).'
 ---
 This study explains about the basis set comparison for small ZnO clusters using density functional theory.
 
