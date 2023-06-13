@@ -1,7 +1,7 @@
 ---
 title: "Theoretical study of the stability, structure, and optical spectra of small silver clusters and their formation using density functional theory"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-4
+permalink: /publication/2016-10-01-paper-title-number-4
 excerpt: 'This paper is about understanding the formation of small Ag cluster using density functional theory.'
 date: 2021
 venue: 'Physical Chemistry Chemical Physics'
