@@ -86,9 +86,9 @@ author:
   location         : "Bloomington, IN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=P1japUQAAAAJ&hl=en&authuser=1"
+  googlescholar    : "http://scholar.google.com/citations?user=P1japUQAAAAJ&hl=en&authuser=1"
   email            :
-  researchgate     :   "https://researchgate.net/profile/Duwage_Perera"
+  researchgate     :   "https://www.researchgate.net/profile/Duwage_Perera"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "http://github.com/dcperera"
+  github           : "dcperera"
   google_plus      :
   keybase          :
   instagram        : "https://instagram.com/charitha.p/"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "http://twitter.com/d_charitha"
+  twitter          : "d_charitha"
   vine             :
   weibo            :
   xing             :
