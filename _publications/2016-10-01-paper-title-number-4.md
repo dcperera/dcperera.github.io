@@ -6,7 +6,7 @@ excerpt: 'This paper is about understanding the formation of small Ag cluster us
 date: 2021
 venue: 'Physical Chemistry Chemical Physics'
 paperurl: 'http://dcperera.github.io/files/paper4.pdf'
-citation: 'M Farshad, DC Perera, JC Rasaiah . (2021). &quot;Theoretical study of the stability, structure, and optical spectra of small silver clusters and their formation using density functional theory3.&quot; <i>Physical Chemistry Chemical Physics</i>.'
+citation: 'M Farshad, DC Perera, JC Rasaiah . (2021). &quot;Theoretical study of the stability, structure, and optical spectra of small silver clusters and their formation using density functional theory3.&quot; <i>Physical Chemistry Chemical Physics</i>.1(4)'
 ---
 This paper is about understanding the formation of small Ag cluster using density functional theory.
 
