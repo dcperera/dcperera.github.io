@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 4"
+title: "Theoretical study of the stability, structure, and optical spectra of small silver clusters and their formation using density functional theory"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper is about understanding the formation of small Ag cluster using density functional theory.'
+date: 2021
+venue: 'Physical Chemistry Chemical Physics'
+paperurl: 'http://dcperera.github.io/files/paper4.pdf'
+citation: 'M Farshad, DC Perera, JC Rasaiah . (2021). &quot;Theoretical study of the stability, structure, and optical spectra of small silver clusters and their formation using density functional theory3.&quot; <i>Physical Chemistry Chemical Physics</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about understanding the formation of small Ag cluster using density functional theory.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://pubs.rsc.org/en/content/articlelanding/2021/CP/D1CP04070G)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Theoretical study of the stability, structure, and optical spectra of small silver clusters and their formation using density functional theory
+M Farshad, DC Perera, JC Rasaiah - Physical Chemistry Chemical Physics, 2021, https://pubs.rsc.org/en/content/articlelanding/2021/CP/D1CP04070G
