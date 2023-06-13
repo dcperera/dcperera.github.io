@@ -85,10 +85,11 @@ author:
   bio              : "Ph.D in Computational Chemistry. Explore new materials using computational tools"
   location         : "Bloomington, IN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :   # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=P1japUQAAAAJ&hl=en&authuser=1"
+  email            : "chperera@iu.edu"
+  researchgate     : "https://researchgate.net/profile/Duwage_Perera"
+ # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +97,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "http://github.com/dcperera"
   google_plus      :
   keybase          :
-  instagram        : 
-  impactstory      : "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "https://instagram.com/charitha.p/"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "http://linkedin.com/in/dcharithaperera"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4237-138X"
   pinterest        :
   soundcloud       :
   stackoverflow    :  # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "http://twitter.com/d_charitha"
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          : "https://www.youtube.com/channel/UCqEIdgdJUpfYTsqpLeYj77A"
   wikipedia        :
 
 
