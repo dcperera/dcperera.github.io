@@ -1,7 +1,7 @@
 ---
 title: "Designing a Remote, Synchronous, Hands-On General Chemistry Lab Course"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/paper-title-number-5
 excerpt: 'This paper is about developing a remote, synchronous general chemistry lab course.'
 date: 2021/9/16
 venue: 'Journal of Chemical Education'
