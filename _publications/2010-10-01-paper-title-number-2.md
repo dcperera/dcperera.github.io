@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about Acetic acid decarbozylation reaction on magnesium hydroxide nanoclusters using the density functional theory.'
 date: 2020/12
 venue: 'Journal of Materials Science'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://dperera.github.io/files/paper2.pdf'
 citation: 'DC Perera, JW Hewage, JC Rasaiah . (2020). &quot;Acetic acid and propionic acid decarboxylation on Mg (OH) 2 nanoclusters: a density functional theory study.&quot; <i>Journal of Materials Science</i>. 1(2).'
 ---
 This paper is about Acetic acid decarbozylation reaction on magnesium hydroxide nanoclusters using the density functional theory.
