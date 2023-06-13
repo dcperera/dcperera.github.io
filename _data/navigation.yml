@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
 
   - title: "Teaching"
@@ -11,12 +11,12 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-           
+        
   - title: "Personal Blog"
     url: /year-archive/
-         
- - title: "CV"
+    
+  - title: "CV"
     url: /cv/
-   
- - title: "Research Interests"
+    
+  - title: "Research Interest"
     url: /markdown/
