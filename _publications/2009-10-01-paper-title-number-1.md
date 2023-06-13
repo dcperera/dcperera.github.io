@@ -2,14 +2,15 @@
 title: "Theoretical Study of Catalytic Decomposition of Acetic Acid on MgO nanosurface "
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This paper is about using MgO nanoclusters as a potenstial catalysis for acetic acid decarboxylation reaction.'
+date: 2015/7/15
+venue: 'Computational and theoretical Chemistry'
 paperurl: 'http://dcperera.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'DC Perera, JW Hewage, N de Silva. (2015). &quot;Theoretical study of catalytic decomposition of acetic acid on MgO nanosurface.&quot; <i>Computational and theoretical Chemistry</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about using MgO nanoclusters as a potenstial catalysis for acetic acid decarboxylation reaction.
 
-[Download paper here](http://dcperera.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1016/j.comptc.2015.04.011)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Theoretical study of catalytic decomposition of acetic acid on MgO nanosurface
+DC Perera, JW Hewage, N de Silva - Computational and theoretical Chemistry, 2015, https://doi.org/10.1016/j.comptc.2015.04.011
