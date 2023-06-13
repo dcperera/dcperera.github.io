@@ -13,4 +13,4 @@ This paper is about developing a remote, synchronous general chemistry lab cours
 [Download paper here](https://pubs.acs.org/doi/full/10.1021/acs.jchemed.1c00559)
 
 Recommended citation: Designing a Remote, Synchronous, Hands-On General Chemistry Lab Course
-MRM Bruce, AE Bruce, SE Bernard, AN Bergeron… - Journal of Chemical Education, 2021, https://pubs.acs.org/doi/full/10.1021/acs.jchemed.1c00559
+Mitchell RM Bruce, Alice E Bruce, Sarah E Bernard, Andrew N Bergeron, Ahmad AL Ahmad, Timothy A Bruce, Duwage C Perera, Shyam Pokhrel, Sfoog Saleh, Anna Tyrina, Sudheera Yaparatne- Journal of Chemical Education, 2021, https://pubs.acs.org/doi/full/10.1021/acs.jchemed.1c00559
