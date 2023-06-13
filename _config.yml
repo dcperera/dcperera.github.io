@@ -13,7 +13,7 @@ name                     : &name "Duwage Charitha Perera"
 description              : &description "personal description"
 url                      : https://dcperera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dcperera.github.io"
+repository               : "dcperera/dcperera.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Charitha Perera"
   avatar           : "profile.jpg"
-  bio              : "Ph.D in Computational Chemistry"
+  bio              : "Ph.D in Computational Chemistry. Explore new materials using computational tools"
   location         : "Bloomington, IN"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
