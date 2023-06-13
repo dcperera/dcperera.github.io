@@ -1,7 +1,7 @@
 ---
 title: "Exchange Functionals and Basis Set Comparisons for Theoretical Studies of ZnO Nonoclusters - ChemRxiv"
 collection: publications
-permalink: /publication/paper-title-number-6
+permalink: /publication/2021-05-17-paper-title-number-6
 excerpt: 'This study explains about the basis set comparison for small ZnO clusters using density functional theory.'
 date: 2021/5/17
 venue: 'ChemRxiv'
