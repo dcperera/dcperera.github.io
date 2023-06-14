@@ -2,7 +2,7 @@
 permalink: /markdown/
 title: "Research Interests"
 author_profile: true
-src='/images/coverart.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/coverart.png'>"
 redirect_from: 
   - /md/
   - /markdown.html
