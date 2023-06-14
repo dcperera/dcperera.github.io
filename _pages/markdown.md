@@ -2,7 +2,6 @@
 permalink: /markdown/
 title: "Research Interests"
 author_profile: true
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/coverart.png'>"
 redirect_from: 
   - /md/
   - /markdown.html
@@ -13,7 +12,7 @@ redirect_from:
 * Water splitting reaction
 * acetic acid decarboxylation
 
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): '/images/coverart.png'
 
 ## Molecular Qubits
 
