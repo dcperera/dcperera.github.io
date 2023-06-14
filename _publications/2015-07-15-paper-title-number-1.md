@@ -6,7 +6,7 @@ excerpt: 'This paper is about using MgO nanoclusters as a potenstial catalysis f
 date: 2015-07-15
 venue: 'Computational and theoretical Chemistry'
 paperurl: 'http://dcperera.github.io/files/paper1.pdf'
-citation: 'DC Perera, JW Hewage, N de Silva. (2015). &quot;Theoretical study of catalytic decomposition of acetic acid on MgO nanosurface.&quot; <i>Computational and theoretical Chemistry</i>.1(1).'
+citation: 'DC Perera, JW Hewage, N de Silva. (2015). &quot;Theoretical study of catalytic decomposition of acetic acid on MgO nanosurface.&quot; <i>Computational and theoretical Chemistry</i>.1(1).' 
 ---
 This paper is about using MgO nanoclusters as a potenstial catalysis for acetic acid decarboxylation reaction.
 
