@@ -12,5 +12,5 @@ This paper is about using MgO nanoclusters as a potenstial catalysis for acetic 
 
 [Download paper here](https://doi.org/10.1016/j.comptc.2015.04.011)
 
-Recommended citation: DC Perera, JW Hewage, N de Silva. (2015). &quot;Theoretical study of catalytic decomposition of acetic acid on MgO nanosurface.&quot; <i>Computational and theoretical Chemistry</i>.1(1). 
+Recommended citation: DC Perera, JW Hewage, N de Silva. (2015). "Theoretical study of catalytic decomposition of acetic acid on MgO nanosurface." <i>Computational and theoretical Chemistry</i>.1(1). 
 
