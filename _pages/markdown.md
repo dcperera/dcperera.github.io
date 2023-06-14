@@ -2,6 +2,7 @@
 permalink: /markdown/
 title: "Research Interests"
 author_profile: true
+src='/images/coverart.png'>"
 redirect_from: 
   - /md/
   - /markdown.html
