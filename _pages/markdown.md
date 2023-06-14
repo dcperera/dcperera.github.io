@@ -12,7 +12,7 @@ redirect_from:
 * Water splitting reaction
 * acetic acid decarboxylation
 
-* Profile image (can set in _config.yml): '/images/coverart.png'
+
 
 ## Molecular Qubits
 
