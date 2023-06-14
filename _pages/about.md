@@ -26,14 +26,35 @@ What you see in this website
 
 **Presentations**
 
+
+
 **Talks**
+
+
+
+
 **Teaching**
 
+
+
+
+**Portfolio**
+
+
+
 **Reseacrh Interest**
+
+
+
+
 **Personal Blog**
+
+
 
 **CV**
 
+
+
 For more info
 ------
-
+Please contact charitha.perera@maine.edu or chperera@iu.edu
