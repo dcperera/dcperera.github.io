@@ -10,7 +10,7 @@ redirect_from:
 
 I am a computational chemist studying molecules using my fingertips. 
 
-I did my bachelor's degree in Chemistry (with a Mathematics minor) at Ruhuna University, Matara, Sri Lanka. I worked with Prof. Jayendran C. Rasaiah (http://omh.umeche.maine.edu/) at the University of Maine, Orono, ME during my time of Ph.D. Currently, I am a postdoctoral researcher at Indiana University, Bloomington, IN.
+I did my bachelor's degree in Chemistry (with a Mathematics minor) at Ruhuna University, Matara, Sri Lanka. I worked with Prof. Jayendran C. Rasaiah (https://omh.umeche.maine.edu/) at the University of Maine, Orono, ME during my time of Ph.D. Currently, I am a postdoctoral researcher at Indiana University, Bloomington, IN.
 
 
 
