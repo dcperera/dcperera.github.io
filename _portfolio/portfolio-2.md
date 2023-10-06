@@ -1,6 +1,7 @@
 ---
 title: "Novel reaction pathway to produce H2 from water splitting reaction"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Schematic representation of the hydrogen production via the water splitting reaction on GO-(ZnO)3 catalytic system. 1 and 3 on H and O denotes the singlet and triplet states.
+ <br/><img src='/images/Fig_2.png'>"
 collection: portfolio
 ---
 
@@ -9,3 +10,4 @@ With the depletion of fossil fuels, the need to find a new source of energy has 
 
 In this paper, we discussed hydrogen production via water splitting reaction, which utilizes two water molecules to produce hydrogen and oxygen as products in the presence  of sunlight as a possible way to address the current energy problem. We selected nanoclusters of zinc oxide trimers as the catalytic material and compared the reaction pathways with the same catalytic material absorbed on different graphene oxides materials. We used quantum mechanical density functional theory (DFT) to solve this problem utilizing  the computer resources at the High Performance Computer Cluster of University of Maine. Our investigations reveal that with graphene oxide the reaction pathway bypasses two steps compared to the use of  bare zinc oxide trimer as the catalyst. We studied and illustrated the detailed reaction pathways from the potential energy surfaces for the production of hydrogen and oxygen using both catalytic materials, and showed that the ZnO nanocluster, which is cheap, is a promising catalyst to split water to produce hydrogen as a future source of fuel. The next step will be to calculate the rate of production of hydrogen in the presence and absence of sunlight.
 
+You can learn more at the [ACS Omega Journal Website](https://pubs.acs.org/doi/full/10.1021/acsomega.3c04882) 
