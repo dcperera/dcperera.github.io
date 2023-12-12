@@ -10,7 +10,8 @@ redirect_from:
 ## Catalysis
 
 * Water splitting reaction
-* acetic acid decarboxylation
+* Acetic Acid decarboxylation reaction
+* Carbon Dioxide reduction reactions
 
 
 
