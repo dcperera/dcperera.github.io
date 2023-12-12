@@ -10,7 +10,7 @@ redirect_from:
 
 I am a computational chemist studying molecules using my fingertips. 
 
-I did my bachelor's degree specializing in Chemistry (with a Mathematics minor) at the University of Ruhuna, Matara, Sri Lanka. I worked with Prof. Jayendran C. Rasaiah ([https://omh.umeche.maine.edu/](http://omh.umeche.maine.edu/)) at the University of Maine, Orono, ME during my time of Ph.D. Currently, I am a postdoctoral researcher at Indiana University, Bloomington, IN.
+I did my bachelor's degree specializing in Chemistry (with a Mathematics minor) at the ([University of Ruhuna](https://alpha.ruh.ac.lk/FacultyofScience/)), Matara, Sri Lanka. I worked with ([Prof. Jayendran C. Rasaiah](http://omh.umeche.maine.edu/)) at the University of Maine, Orono, ME during my time of Ph.D. Currently, I am a postdoctoral researcher at ([Indiana University](https://www.chem.indiana.edu/faculty/philip-shushkov/)), Bloomington, IN.
 
 
 
@@ -52,9 +52,9 @@ What you see on this website
 
 
 **CV**
-If you are here to check my CV please click on the menu tab on the top right corner and click on the cv from the drop-down menu.
+If you are here to check my CV please click on the menu tab on the top right corner and click on the CV from the drop-down menu.
 
 
 For more info
 ------
-Please contact charitha.perera@maine.edu or chperera@iu.edu
+Please contact ([charitha.perera@maine.edu](charitha.perera@maine.edu)) or ([chperera@iu.edu](chperera@iu.edu))
