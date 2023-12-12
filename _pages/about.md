@@ -20,34 +20,32 @@ What you see on this website
 
 
 
-**Publications**
+**Publications, Presentations, and Talks**
 
-
-**Presentations and Talks**
-
-
-
+Some of my research work has been published as [peer-reviewed papers](https://dcperera.github.io/publications/), [Chemrxiv articles](https://dcperera.github.io/publications/), [presentations](https://dcperera.github.io/talks/) and [talks](https://dcperera.github.io/talks/).
 
 
 **Teaching**
 
-
+I am still building my career as a teacher. Check [here](https://dcperera.github.io/teaching/) to see my experience so far.
 
 
 **Portfolio**
 
-
+Interested in exploring the [practical applications](https://dcperera.github.io/portfolio/
+) of my findings? 
 
 **Research Interest**
 
-
+My research interests align with the direction of the materials. [Find out more!](https://dcperera.github.io/markdown/)
 
 
 **Personal Blog**
 
-
+I write what I feel as a woman scientist, a mother, and a human being. Explore my [blog](https://dcperera.github.io/year-archive/) to see more.
 
 **CV**
+
 If you are here to check my CV please click [here](https://dcperera.github.io/cv/).
 
 
