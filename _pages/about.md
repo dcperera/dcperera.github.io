@@ -48,7 +48,7 @@ What you see on this website
 
 
 **CV**
-If you are here to check my CV please click on the menu tab on the top right corner and click on the CV from the drop-down menu.
+If you are here to check my CV please click [here](https://dcperera.github.io/cv/).
 
 
 For more info
