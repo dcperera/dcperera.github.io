@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Specialized Chemistry with Mathemiatics minor, University of Ruhuna, Matara, Sri Lanka, 2014
-* Ph.D in Chemistry, University of Maine, Orono, ME, 2022 (GPA 3.9)
+* B.Sc. Specialized Chemistry with Mathematics minor, University of Ruhuna, Matara, Sri Lanka, 2014 (GPA 3.2)
+* Ph.D. in Chemistry, University of Maine, Orono, ME, 2022 (GPA 3.9), Advisor: Jayendran C. Rasaiah
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Fellow (2023)
+  * Indiana University, Bloomington, IN
+  * Duties included: Study and calculate the spin relaxation time and mechanism for molecular qubits
+  * Supervisor: Philip Shushkov
 
 * Fall 2015: Research Assistant
   * Github University
