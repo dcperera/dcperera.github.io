@@ -17,11 +17,12 @@ redirect_from:
 
 ## Molecular Qubits
 
-
+* Spin relaxation time
+* g-tensor calculations
 
 ## Glyphosate
 
-
+* Interaction with metal cations
 
 
 
