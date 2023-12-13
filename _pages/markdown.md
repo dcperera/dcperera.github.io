@@ -6,9 +6,9 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<br/><img align="right" src='/images/research_interest.png'>
-## Catalysis
 
+## Catalysis
+<br/><img align="right" src='/images/research_interest.png'>
 * Water splitting reaction
 * Acetic Acid decarboxylation reaction
 * Carbon Dioxide reduction reactions
