@@ -6,14 +6,14 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<br/><img align="right" src='/images/research_interest.png'>
+
 ## Catalysis
 
 * Water splitting reaction
 * Acetic Acid decarboxylation reaction
 * Carbon Dioxide reduction reactions
 
-
+<br/> <p align="right"> <img width="500" height="350" src='/images/research_interest.png'>
 
 ## Molecular Qubits
 
@@ -27,19 +27,5 @@ redirect_from:
 
 
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
-
-
-
-
-
-
-
-
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
 
 
