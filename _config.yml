@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           :" <br/>  <img align="right" width="200" height="100" src='/images/profile.jpg'>"
+  avatar           : <br/>  <img align="right" width="200" height="100" src='/images/profile.jpg'>
   bio              : "Ph.D in Computational Chemistry. A postdoctoral research fellow who likes to explore new materials using computational tools"
   location         : "Bloomington, IN"
   employer         :
