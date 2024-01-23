@@ -15,8 +15,8 @@ I did my bachelor's degree specializing in Chemistry (with a Mathematics minor) 
 
 News
 ------
-My Ph.D. work has been featured by UMaine Research,
-If you are interested:[UMaine Research News](https://umaine.edu/research/2024/01/17/sustainable-energy-innovation-charitha-pereras-research-may-cut-costs-for-hydrogen-fuel-production%ef%bf%bc/)
+January 17, 2024: My Ph.D. work has been featured by UMaine Research,
+If you are interested: [UMaine Research News](https://umaine.edu/research/2024/01/17/sustainable-energy-innovation-charitha-pereras-research-may-cut-costs-for-hydrogen-fuel-production%ef%bf%bc/)
 
 What you see on this website
 ------
