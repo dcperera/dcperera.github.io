@@ -1,5 +1,5 @@
 ---
-title: "Novel reaction pathway to produce H2 from water splitting reaction"
+title: "Novel reaction pathway to produce H<sub>2 from water splitting reaction"
 excerpt: "Schematic representation of the hydrogen production via the water splitting reaction on GO-(ZnO)3 catalytic system. 1 and 3 on H and O denotes the singlet and triplet states.
  <br/><img src='/images/Fig_2.png'>"
 collection: portfolio
