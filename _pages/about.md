@@ -16,6 +16,7 @@ I did my bachelor's degree specializing in Chemistry (with a Mathematics minor) 
 News
 ------
 January 17, 2024: Learn more about my Ph.D. work, featured by UMaine Research : [UMaine Research News](https://umaine.edu/research/2024/01/17/sustainable-energy-innovation-charitha-pereras-research-may-cut-costs-for-hydrogen-fuel-production%ef%bf%bc/)
+March 1, 2021: My work on acetic acid decarboxylation reaction was featured by UMaine Research: [UMaine Research News/Grad Student Spotlight](https://umaine.edu/research/2021/03/01/perera-discovers-potential-coating-agent-for-textiles-that-decomposes-sweat/)
 
 What you see on this website
 ------
