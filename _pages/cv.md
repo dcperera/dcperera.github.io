@@ -25,21 +25,44 @@ Work experience
 
 Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* DFT studies of small cluster systems
+  * H<sub>2</sub> production from water splitting on ZnO and ZnO-Graphene Oxide nanoclusters.
+  * Dynamics of water splitting reaction on ZnO nanoclusters.
+  * Acetic acid decarboxylation reaction on MgO and Mg(OH)<sub>2</sub> nanoclusters.
+* Computational studies on Molecular Qubits in quantum computing
+  * Calculating spin relaxation time for molecular qubits using DFT.
+* AIMD studies of metal cation interactions with glyphosate
+  * Metal cation/cationic mixtures interactions with glyphosate molecule using ab initio molecular dynamics.
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Python
+  * Fortran
+  * C/C++
+* Packages
+  * Gaussian 09/16, Gauss view 05/06 and GaussSum
+  * NAMD and VMD
+  * Orca
+  * Quantum Espresso
+  * Gromacs
+  * CP2K
+  * Mathematica
+  * Matlab
+* Platforms
+  * Unix/Linux
+  * Microsoft Windows
+  * LibreOffice
+* Graphics
+  * Gnuplot
+* Libraries
+  * Pandas
+  * NumPy
+  * Matplotlib
+* Instruments
+  * Bomb Calorimeter
+  * UV-Vis spectrometer
+  * Flame photometer
 
 Publications
 ======
