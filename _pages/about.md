@@ -40,7 +40,7 @@ My research interests align with the direction of the materials. [Find out more!
 I write what I feel as a woman scientist, a mother, and a human being. Explore my [blog](https://dcperera.github.io/year-archive/) to see more.
 
 **CV**
-If you are here to check my CV please click [here](https://dcperera.github.io/cv/).
+If you are here to check my CV please click [here](https://dcperera.github.io/cv/) or download <br/><img src='/files/Duwage_Charitha_Perera.pdf'>.
 
 For more info
 ------
