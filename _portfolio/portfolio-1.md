@@ -8,7 +8,7 @@ Acetic acid is a weak acid and an important starting material for the production
 
 The gas phase decarboxylation reaction of acetic acid occurs via two main steps and decarboxylation with currently used catalysts follows a similar mechanism.  Our recently published article  shows acetic acid decarboxylation occurs via a direct pathway when magnesium hydroxide cluster [Mg(OH)<sub>2</sub>]<sub>5</sub> is the catalyst. Our results suggest  that the decarboxylation of propionic acid (which is a component in sweat) will also occur via  a similar pathway with the same catalyst, and  we have confirmed this using the same theoretical methods.
 
-This catalyst could provide a promising decarboxylation reaction pathway that suppresses undesirable by-products to produce high-quality vinyl acetate and bio-oil and suggests the potential of Mg(OH)2 catalyst as a coating agent for textiles that decompose sweat.
+This catalyst could provide a promising decarboxylation reaction pathway that suppresses undesirable by-products to produce high-quality vinyl acetate and bio-oil and suggests the potential of Mg(OH)<sub>2</sub> catalyst as a coating agent for textiles that decompose sweat.
 
 
 
