@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. Specialized Chemistry with Mathematics minor, University of Ruhuna, Matara, Sri Lanka, 2014 (GPA 3.2)
 * Ph.D. in Chemistry, University of Maine, Orono, ME, 2022 (GPA 3.9), Advisor: Jayendran C. Rasaiah
-  * Thesis Title: [Quantum Mechanical Studies of Water Splitting Reaction With (ZnO)3 Nanoclusters as Catalysts](https://umaine.summon.serialssolutions.com/search?s.fvf%5B%5D=ContentType%2CNewspaper+Article%2Ct&s.q=duwage+c+perera&_gl=1*1w1ilea*_ga*MTczMjUzNTAwMS4xNzAxNzE2NzY0*_ga_JQHJ7W6CLS*MTcwMjQxOTUyMy4xLjEuMTcwMjQxOTU0MC40My4wLjA.#!/search?ho=t&include.ft.matches=f&fvf=ContentType,Newspaper%20Article,t&l=en&q=duwage%20c%20perera)
+  * Thesis Title: [Quantum Mechanical Studies of Water Splitting Reaction With (ZnO)<sub>3</sub> Nanoclusters as Catalysts](https://umaine.summon.serialssolutions.com/search?s.fvf%5B%5D=ContentType%2CNewspaper+Article%2Ct&s.q=duwage+c+perera&_gl=1*1w1ilea*_ga*MTczMjUzNTAwMS4xNzAxNzE2NzY0*_ga_JQHJ7W6CLS*MTcwMjQxOTUyMy4xLjEuMTcwMjQxOTU0MC40My4wLjA.#!/search?ho=t&include.ft.matches=f&fvf=ContentType,Newspaper%20Article,t&l=en&q=duwage%20c%20perera)
 
 Work experience
 ======
