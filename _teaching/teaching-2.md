@@ -1,11 +1,11 @@
 ---
 title: "Teaching experience as a graduate teaching assistant at the University of Maine, Orono"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "The University of Maine, Department of Chemistry"
+date: 2016-01-21
+location: "Orono, ME"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
