@@ -3,8 +3,8 @@ title: "Teaching experience as a graduate teaching assistant at the University o
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Maine, Department of Chemistry"
-date: 2014-01-01
+venue: "The University of Maine, Department of Chemistry"
+date: 2022-08-01
 location: "Machias, ME"
 ---
 
