@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience as a graduate teaching assistant at the University of Maine, Orono"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
