@@ -20,6 +20,13 @@ redirect_from:
 * Spin relaxation time
 * g-tensor calculations
 
+## PFAS remediation
+
+* PFAS in water and soil
+* Remediation using ultrasound
+* Molecular Dynamics on nano bubble stability
+* DFT study on the remediation mechanism and rate
+
 ## Glyphosate
 
 * Interaction with metal cations
