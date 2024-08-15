@@ -10,7 +10,7 @@ redirect_from:
 
 I am a computational chemist studying molecules using my fingertips. 
 
-I did my bachelor's degree specializing in Chemistry (with a Mathematics minor) at the [University of Ruhuna](https://alpha.ruh.ac.lk/FacultyofScience/), Matara, Sri Lanka. I worked with [Jayendran C. Rasaiah](http://omh.umeche.maine.edu/) at the University of Maine, Orono, ME during my time of Ph.D. Currently, I am a postdoctoral researcher in [Philip Sushkov group](https://www.chem.indiana.edu/faculty/philip-shushkov/), Indiana University, Bloomington, IN.
+I did my bachelor's degree specializing in Chemistry (with a Mathematics minor) at the [University of Ruhuna](https://alpha.ruh.ac.lk/FacultyofScience/), Matara, Sri Lanka. I worked with [Jayendran C. Rasaiah](http://omh.umeche.maine.edu/) at the University of Maine, Orono, ME during my time of Ph.D. Currently, I am a postdoctoral researcher in [Jay Meegoda group](https://people.njit.edu/profile/meegoda), NJIT, NJ.
 
 
 News
