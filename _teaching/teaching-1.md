@@ -8,9 +8,10 @@ date: 2014-08-01
 location: "Matara, Sri Lanka"
 ---
 
+I worked as a Teaching Assistant for undergraduate General Chemistry laboratory courses, where I guided students through experiments, ensured lab safety, graded reports, and supported their understanding of fundamental chemical principles.
 
 Physical Chemistry Undergraduate Laboratory (General)
-======
+---
 
 Physical Chemistry Undergraduate Laboratory (Special)
-======
+---
