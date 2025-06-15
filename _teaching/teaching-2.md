@@ -4,17 +4,26 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1
 venue: "The University of Maine, Department of Chemistry"
-date: 2016-01-21
+date: 01-21-2016 to 08-31-2022
 location: "Orono, ME"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+CHY 123
 ======
+Laboratory Curriculum and Topics Covered:
+01 ICN Basics, Safety, and Policy Quiz. 
+02 Introduction to measurement: 
+03 Bringing Lab into Focus. An inquiry lab for measuring the density of an aqueous sucrose
+solution and various objects (The law of buoyancy will be reviewed) 
+04 Polymers and Cross-Linking.
+05 Writing Lab Reports Workshop. 
+06 Paper Chromatography of Food Dyes. 
+07 Precipitation and Conservation of Mass experiment.
+08 Heats of Reaction: applications of thermochemistry.
+09 Badge in Dilution of Solutions. 
+10 Using an Arduino device, students will capture infrared readings at two wavelengths
+representing oxygenated and deoxygenated blood.
 
-Heading 2
-======
 
-Heading 3
-======
