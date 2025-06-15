@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1
 venue: "The University of Maine, Department of Chemistry"
-date: 01-21-2016 to 08-31-2022
+date: 01-21-2016
 location: "Orono, ME"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I worked as a Graduate Teaching Assistant for undergraduate General Chemistry laboratory courses at the University of Maine, Orono, ME (01/21/2026 - 08/31/2022), where I guided students through experiments, ensured lab safety, graded reports, and supported their understanding of fundamental chemical principles.
 
 CHY 123
 ======
