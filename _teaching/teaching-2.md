@@ -25,5 +25,10 @@ solution and various objects (The law of buoyancy will be reviewed)
 09 Badge in Dilution of Solutions. 
 10 Using an Arduino device, students will capture infrared readings at two wavelengths
 representing oxygenated and deoxygenated blood.
+11 Copper Cycle. Exploring a series of reactions starting with metallic copper as a reactant
+and ending with metallic copper as a product. 
+12 Synthesis of Alum. A synthesis and recrystallization of alum from aluminum. 
+13 Silver Nano-particles lab experiment. 
+
 
 
