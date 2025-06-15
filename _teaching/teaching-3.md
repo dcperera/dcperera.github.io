@@ -8,13 +8,9 @@ date: 2022-08-01
 location: "Machias, ME"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I worked as a Graduate Teaching Assistant for undergraduate General Chemistry I taught by Dr. William Otto at the Department of Chemistry, University of Maine, Machias, ME, where I guided students through experiments, ensured lab safety, graded reports, and supported their understanding of fundamental chemical principles.
 
-Heading 1
+GENERAL CHEMISTRY I CHY 101
 ======
+Measurements, Matter,  Molecules, compounds, and equations, Quantities and Aqueous Reactions, Gases, Thermochemistry, Electronic structure, Periodic properties, Bonding.
 
-Heading 2
-======
-
-Heading 3
-======
