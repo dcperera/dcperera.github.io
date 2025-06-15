@@ -8,13 +8,9 @@ date: 2014-08-01
 location: "Matara, Sri Lanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Physical Chemistry Undergraduate Laboratory (General)
 ======
 
-Heading 2
-======
-
-Heading 3
+Physical Chemistry Undergraduate Laboratory (Special)
 ======
