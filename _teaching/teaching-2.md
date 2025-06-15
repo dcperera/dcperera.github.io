@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1
 venue: "The University of Maine, Department of Chemistry"
-date: 01-21-2016
+date: 2026-01-21
 location: "Orono, ME"
 ---
 
