@@ -83,11 +83,11 @@ author:
   name             : ""
   avatar           : "profile.jpg"
   bio              : "Ph.D in Computational Chemistry. A postdoctoral research fellow who likes to explore new materials using computational tools"
-  location         : "Bloomington, IN"
+  location         : "Newark, NJ"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=P1japUQAAAAJ&hl=en&authuser=1"
-  email            : "chperera@iu.edu"
+  email            : "dcp39@njit.edu"
   researchgate     : "https://researchgate.net/profile/Duwage_Perera"
  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -114,7 +114,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "abinitio6042?si=qZfpvWZcXqxii-sN" 
+  youtube          : "abinitio6042" 
   wikipedia        :
 
 
