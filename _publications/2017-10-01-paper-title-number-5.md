@@ -5,7 +5,6 @@ permalink: /publication/2017-10-01-paper-title-number-5
 excerpt: 'This paper is about developing a remote, synchronous general chemistry lab course.'
 date: 2021/9/16
 venue: 'Journal of Chemical Education'
-paperurl: 'http://dcperera.github.io/files/paper5.pdf'
 citation: 'Mitchell RM Bruce, Alice E Bruce, Sarah E Bernard, Andrew N Bergeron, Ahmad AL Ahmad, Timothy A Bruce, Duwage C Perera, Shyam Pokhrel, Sfoog Saleh, Anna Tyrina, Sudheera Yaparatne. (2021). &quot; Designing a Remote, Synchronous, Hands-On General Chemistry Lab Course.&quot; <i>Journal of Chemical Education</i>.1(5)'
 ---
 This paper is about developing a remote, synchronous general chemistry lab course.
