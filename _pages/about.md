@@ -15,6 +15,7 @@ I did my bachelor's degree specializing in Chemistry (with a Mathematics minor) 
 
 News
 ------
+**June 17, 2025:** I participated the NSF I-Coprs Spring cohort as the teachnical lead of the team : [Video]([https://umaine.edu/research/2024/01/17/sustainable-energy-innovation-charitha-pereras-research-may-cut-costs-for-hydrogen-fuel-production%ef%bf%bc/](https://youtu.be/tqR6w2KFmrM))
 **January 17, 2024:** Learn more about my Ph.D. work, featured by UMaine Research : [UMaine Research News](https://umaine.edu/research/2024/01/17/sustainable-energy-innovation-charitha-pereras-research-may-cut-costs-for-hydrogen-fuel-production%ef%bf%bc/)
 
 **March 1, 2021:** My work on acetic acid decarboxylation reaction was featured by UMaine Research: [UMaine Research News/Grad Student Spotlight](https://umaine.edu/research/2021/03/01/perera-discovers-potential-coating-agent-for-textiles-that-decomposes-sweat/) and [The Maine Campus, UMaine's Student Newspaper since 1875](https://mainecampus.com/category/news/2021/03/umaine-grad-student-makes-chemistry-discovery/)
