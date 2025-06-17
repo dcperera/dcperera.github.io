@@ -2,7 +2,7 @@
 title: "Teaching experience as a graduate teaching assistant at the University of Maine, Machias"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-Fall-teaching-3
 venue: "The University of Maine, Department of Chemistry"
 date: 2022-08-01
 location: "Machias, ME"
