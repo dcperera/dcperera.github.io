@@ -1,7 +1,6 @@
 ---
 title: "Computational Study of H<sub>2</sub>O Adsorption, Hydrolysis, and Water Splitting on (ZnO)<sub>3</sub> Nanoclusters Deposited on Graphene and Graphene Oxides"
 collection: publications
-permalink: /publication/2023-08-21-paper-title-number-8
 excerpt: 'In this study, we investigated the possibilities of using ZnO-Graphene Oxide nano cluster system in a favorable way of producing hydrogen from the water splitting reaction.'
 date: 2023/08/21
 venue: 'ACS Omega'
