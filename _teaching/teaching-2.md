@@ -2,7 +2,7 @@
 title: "Teaching experience as a graduate teaching assistant at the University of Maine, Orono"
 collection: teaching
 type: "Undergraduate"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2016-spring-teaching-1
 venue: "The University of Maine, Department of Chemistry"
 date: 2016-01-21
 location: "Orono, ME"
