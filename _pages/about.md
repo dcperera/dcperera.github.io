@@ -15,7 +15,7 @@ I did my bachelor's degree specializing in Chemistry (with a Mathematics minor) 
 
 News
 ------
-**June 22, 2025:** New Paper Alert : [Mechanism of sonolytic PFAS degradation into inorganic products: A combined reactive molecular dynamics and density functional theory approaches]([https://youtu.be/tqR6w2KFmrM](https://authors.elsevier.com/c/1lIjK4-sDiwm2])
+**June 22, 2025:** New Paper Alert : [Mechanism of sonolytic PFAS degradation into inorganic products: A combined reactive molecular dynamics and density functional theory approaches](https://doi.org/10.1016/j.jcis.2025.138215)
 
 **June 17, 2025:** I participated in the NSF I-Corps Spring cohort as the technical lead of the team : [Video](https://youtu.be/tqR6w2KFmrM)
 
