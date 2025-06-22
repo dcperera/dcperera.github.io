@@ -15,6 +15,8 @@ I did my bachelor's degree specializing in Chemistry (with a Mathematics minor) 
 
 News
 ------
+**June 22, 2025:** New Paper Alert : [Mechanism of sonolytic PFAS degradation into inorganic products: A combined reactive molecular dynamics and density functional theory approaches]([https://youtu.be/tqR6w2KFmrM](https://authors.elsevier.com/c/1lIjK4-sDiwm2))
+
 **June 17, 2025:** I participated in the NSF I-Corps Spring cohort as the technical lead of the team : [Video](https://youtu.be/tqR6w2KFmrM)
 
 **January 17, 2024:** Learn more about my Ph.D. work, featured by UMaine Research : [UMaine Research News](https://umaine.edu/research/2024/01/17/sustainable-energy-innovation-charitha-pereras-research-may-cut-costs-for-hydrogen-fuel-production%ef%bf%bc/)
@@ -42,8 +44,8 @@ My research interests align with the direction of the materials. [Find out more!
 I write what I feel as a woman scientist, a mother, and a human being. Explore my [blog](https://dcperera.github.io/year-archive/) to see more.
 
 **CV**
-If you are here to check my CV please click [here](https://dcperera.github.io/cv/) or [download](files/Duwage_Charitha_Perera.pdf).
+If you are here to check my CV, please click [here](https://dcperera.github.io/cv/) or [download](files/Duwage_Charitha_Perera.pdf).
 
 For more info
 ------
-Please contact ([charitha.perera@maine.edu](charitha.perera@maine.edu)) or ([chperera@iu.edu](chperera@iu.edu))
+Please contact ([charitha.perera@maine.edu](charitha.perera@maine.edu)) or ([dcp39@njit.edu](dcp39@njit.edu))
