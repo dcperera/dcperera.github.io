@@ -19,6 +19,8 @@ News
 
 **June 17, 2025:** I participated in the NSF I-Corps Spring cohort as the technical lead of the team : [Video](https://youtu.be/tqR6w2KFmrM)
 
+**September, 2024:** New Paper Alert : [PFAS: The Journey from Wonder Chemicals to Environmental Nightmares and the Search for Solutions](https://doi.org/10.3390/app14198611)
+
 **January 17, 2024:** Learn more about my Ph.D. work, featured by UMaine Research : [UMaine Research News](https://umaine.edu/research/2024/01/17/sustainable-energy-innovation-charitha-pereras-research-may-cut-costs-for-hydrogen-fuel-production%ef%bf%bc/)
 
 **March 1, 2021:** My work on acetic acid decarboxylation reaction was featured by UMaine Research: [UMaine Research News/Grad Student Spotlight](https://umaine.edu/research/2021/03/01/perera-discovers-potential-coating-agent-for-textiles-that-decomposes-sweat/) and [The Maine Campus, UMaine's Student Newspaper since 1875](https://mainecampus.com/category/news/2021/03/umaine-grad-student-makes-chemistry-discovery/)
