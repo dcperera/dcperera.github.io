@@ -17,6 +17,7 @@ Laboratory Curriculum and Topics Covered:
 01 ICN Basics, Safety, and Policy Quiz. 
 
 02 Introduction to measurement.
+<br/>  <img align="right" width="600" height="500" src='/images/calibration.png'>
 
 03 Bringing Lab into Focus. An inquiry lab for measuring the density of an aqueous sucrose
 solution and various objects (The law of buoyancy will be reviewed).
