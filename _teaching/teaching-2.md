@@ -8,7 +8,7 @@ date: 2016-01-21
 location: "Orono, ME"
 ---
 
-I worked as a Graduate Teaching Assistant for undergraduate General Chemistry laboratory courses at the University of Maine, Orono, ME (01/21/2026 - 08/31/2022), where I guided students through experiments, ensured lab safety, graded reports, and supported their understanding of fundamental chemical principles.
+I worked as a Graduate Teaching Assistant for undergraduate General Chemistry laboratory courses at the University of Maine, Orono, ME (01/21/2026 - 08/31/2022), where I guided students through experiments, ensured lab safety, graded reports, and supported their understanding of fundamental chemical principles. Sample video I did during the 2020 class (During the Covid 19 pandemic) can be found here [https://youtu.be/CFceoc3G9kc]
 
 CHY 123
 ======
@@ -17,7 +17,7 @@ Laboratory Curriculum and Topics Covered:
 01 ICN Basics, Safety, and Policy Quiz. 
 
 02 Introduction to measurement.
-<br/>  <img align="right" width="600" height="500" src='/images/calibration.png'>
+<br/>  <img align="right" width="80" height="50" src='/images/calibration.png'>
 
 03 Bringing Lab into Focus. An inquiry lab for measuring the density of an aqueous sucrose
 solution and various objects (The law of buoyancy will be reviewed).
